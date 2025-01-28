@@ -1,0 +1,9 @@
+{
+	"cSpell.words": [],
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": false,
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "all",
+	"editor.tabSize": 2,
+	"window.title": "${dirty}${activeEditorShort}${separator}github-markdown-renderer",
+}
